@@ -1,7 +1,7 @@
 {
     "title":"Zero2you",
     "displayTitle":"Z2y E&M Issues",
-    "subTitle":"从零开始，构建你的一切。",
+    "subTitle":"Build anything from scratch.",
     "homeUrl":"https://issue.zero2you.tech",
     "avatarUrl":"https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png",
     "faviconUrl":"https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png",
@@ -13,7 +13,7 @@
     "onePageListNum":15,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
+    "i18n":"",
     "nightTheme":"dark_colorblind",
     "Issue_VERSION":"main"
 }
