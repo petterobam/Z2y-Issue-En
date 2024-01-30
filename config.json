@@ -1,0 +1,19 @@
+{
+    "title":"Zero2you",
+    "displayTitle":"Z2y E&M Issues",
+    "subTitle":"从零开始，构建你的一切。",
+    "homeUrl":"https://issue.zero2you.tech",
+    "avatarUrl":"https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png",
+    "faviconUrl":"https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png",
+    "singlePage":["link","about"],
+    "email":"petterobam@gmail.com",
+    "startSite":"01/29/2024",
+    "filingNum":"",
+    "filingNumExample": "浙ICP备20023628号",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "Issue_VERSION":"main"
+}
