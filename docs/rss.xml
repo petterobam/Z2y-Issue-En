@@ -1,18 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zero2you</title><link>https://issue.zero2you.tech</link><description>从零开始，构建你的一切。</description><copyright>Zero2you</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png</url><title>avatar</title><link>https://issue.zero2you.tech</link></image><lastBuildDate>Mon, 29 Jan 2024 07:16:55 +0000</lastBuildDate><managingEditor>Zero2you</managingEditor><pubDate>Mon, 29 Jan 2024 07:16:55 +0000</pubDate><ttl>60</ttl><webMaster>Zero2you</webMaster><item><title>征集功能： 希望能一起完善这个产品，一些必要的功能、设计和界面效果可以</title><link>https://issue.zero2you.tech/post/zheng-ji-gong-neng-%EF%BC%9A%20-xi-wang-neng-yi-qi-wan-shan-zhe-ge-chan-pin-%EF%BC%8C-yi-xie-bi-yao-de-gong-neng-%E3%80%81-she-ji-he-jie-mian-xiao-guo-ke-yi.html</link><description>由于自身是程序员，审美上可能不能照顾所有用户，因此需要各位提供更多信息和建议，不限于：&#13;
-&#13;
-1. 页面样式的调整意见&#13;
-2. 产品功能的调整意见&#13;
-3. 产品功能的新增意见&#13;
-4. 功能流程的设计意见&#13;
-5. 其他方向的调整意见&#13;
-&#13;
-当然，本人由于代码都是自上而下整体设计，所以后续如果有太个性化调整，会开发接口或者插件模式，提供实践示例，让各位自行定制一些样式或者流程，比如皮肤、布局等都是可以开放调整的，目前还没有充足时间提取和撰写文档，各位可先行提交和记录。</description><guid isPermaLink="true">https://issue.zero2you.tech/post/zheng-ji-gong-neng-%EF%BC%9A%20-xi-wang-neng-yi-qi-wan-shan-zhe-ge-chan-pin-%EF%BC%8C-yi-xie-bi-yao-de-gong-neng-%E3%80%81-she-ji-he-jie-mian-xiao-guo-ke-yi.html</guid><pubDate>Mon, 29 Jan 2024 06:17:15 +0000</pubDate></item><item><title>问题收集：初期自测问题记录，希望大家能踊跃提交问题</title><link>https://issue.zero2you.tech/post/wen-ti-shou-ji-%EF%BC%9A-chu-qi-zi-ce-wen-ti-ji-lu-%EF%BC%8C-xi-wang-da-jia-neng-yong-yue-ti-jiao-wen-ti.html</link><description>- [ ] 文本编辑器问题&#13;
-    - [ ] 编辑器无法呼出查找框&#13;
-    - [X] 某些后缀名无法编辑和预览的文本应该提示&#13;
-    - [X] 图片和 PDF 应该使用浏览器预览&#13;
-    - [ ] 想给文本编辑框底部加一段空白没有行号的部分，使得浏览更美观，试了很多方法都不行（降级）&#13;
-    - [X] Web 文本编辑器获取文本的时候无法保存换行&#13;
-    - [X] Web 文本编辑器中 Safari 浏览器中输入中文的时候行号会错位，原因是这个时候会产生 div&gt;br + span 的情况，google 浏览器没有。</description><guid isPermaLink="true">https://issue.zero2you.tech/post/wen-ti-shou-ji-%EF%BC%9A-chu-qi-zi-ce-wen-ti-ji-lu-%EF%BC%8C-xi-wang-da-jia-neng-yong-yue-ti-jiao-wen-ti.html</guid><pubDate>Mon, 29 Jan 2024 06:11:15 +0000</pubDate></item><item><title>源起：做一个产品吧，让热爱有力量，让普通人放大价值。</title><link>https://issue.zero2you.tech/post/yuan-qi-%EF%BC%9A-zuo-yi-ge-chan-pin-ba-%EF%BC%8C-rang-re-ai-you-li-liang-%EF%BC%8C-rang-pu-tong-ren-fang-da-jia-zhi-%E3%80%82.html</link><description># 源起&#13;
-&#13;
-- 很多时候，我们想做点事来充实下自己，不仅仅是赚钱。</description><guid isPermaLink="true">https://issue.zero2you.tech/post/yuan-qi-%EF%BC%9A-zuo-yi-ge-chan-pin-ba-%EF%BC%8C-rang-re-ai-you-li-liang-%EF%BC%8C-rang-pu-tong-ren-fang-da-jia-zhi-%E3%80%82.html</guid><pubDate>Mon, 29 Jan 2024 06:03:34 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zero2you</title><link>https://issue.zero2you.tech</link><description>从零开始，构建你的一切。</description><copyright>Zero2you</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/petterobam/picture-bucket/main/vs-code/upload/imgslogo.png</url><title>avatar</title><link>https://issue.zero2you.tech</link></image><lastBuildDate>Tue, 30 Jan 2024 09:35:40 +0000</lastBuildDate><managingEditor>Zero2you</managingEditor><pubDate>Tue, 30 Jan 2024 09:35:40 +0000</pubDate><ttl>60</ttl><webMaster>Zero2you</webMaster></channel></rss>
