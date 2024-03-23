@@ -26,7 +26,7 @@
 - [X] Logout not fully effective, automatic login upon clicking login again
 - [X] Lag when clicking or losing focus on text box (Apple's own issue, triggers touch bar input method suggestion)
     - [X] Attempt to encapsulate text box of web browser for interactive processing
-- [X] Git commands such as Clon and Push not working, network needs checking
+- [X] Git commands such as Clone and Push not working, network needs checking
 
 Due to inconsistent development, some issues were overlooked, which is regrettable, as they are valuable experiences.
 
