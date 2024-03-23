@@ -1,8 +1,8 @@
-- [ ] Text Editor Issues
-    - [ ] Unable to invoke find dialog in editor
+- [x] Text Editor Issues
+    - [x] Unable to invoke find dialog in editor
     - [X] Texts with certain extensions unable to be edited and previewed should prompt
     - [X] Images and PDFs should be previewed in the browser
-    - [ ] Attempted to add a blank section without line numbers at the bottom of the text editing box for better aesthetics, tried several methods unsuccessfully (downgrade)
+    - [x] Attempted to add a blank section without line numbers at the bottom of the text editing box for better aesthetics, tried several methods unsuccessfully (downgrade)
     - [X] Web text editor fails to preserve line breaks when retrieving text
     - [X] In Safari browser, Chinese input in web text editor causes misalignment of line numbers due to the occurrence of div>br + span, not observed in Google Chrome
     - [X] Lack of modifying status when clipping large texts, requires special handling upon saving
